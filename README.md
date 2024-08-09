@@ -7,3 +7,5 @@
 ![4](https://github.com/user-attachments/assets/6bd6622b-676f-4e97-8483-eca36e2d1059)
 頭部添加元素
 ![5](https://github.com/user-attachments/assets/158df08e-aa37-4069-9e48-f307ac076e62)
+尾部添加元素
+![6](https://github.com/user-attachments/assets/de9f7a43-7dea-4f39-93ce-7320fef0993c)
