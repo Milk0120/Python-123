@@ -1,2 +1,13 @@
-if _name_ =="_main_";
-
+if __name__ == "__main__":
+    ll = SingleLinkList()
+    ll.add(1)
+    ll.add(2)
+    ll.append(3)
+    ll.insert(2,4)
+    print("length:",ll.length())
+    ll.travel()
+    print(ll.search(3))
+    print(ll.search(5))
+    ll.remove(1)
+    print("length:",ll.length())
+    ll.travel()
