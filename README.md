@@ -9,3 +9,5 @@
 ![5](https://github.com/user-attachments/assets/158df08e-aa37-4069-9e48-f307ac076e62)
 尾部添加元素
 ![6](https://github.com/user-attachments/assets/de9f7a43-7dea-4f39-93ce-7320fef0993c)
+任意位置添加元素
+![7](https://github.com/user-attachments/assets/b0a579a4-97a3-4a13-9392-26a7e54fb961)
